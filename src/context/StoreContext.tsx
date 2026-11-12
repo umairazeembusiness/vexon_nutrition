@@ -91,7 +91,7 @@ const INITIAL_DEMO_ORDERS: Order[] = [
         quantity: 1,
         unitPrice: 18500,
         total: 18500,
-        image: '/src/assets/images/product_whey_tub_1794474631251.jpg'
+        image: '/assets/images/product_whey_tub_1794474631251.jpg'
       },
       {
         productId: 'vexon-pro-steel-shaker',
@@ -100,7 +100,7 @@ const INITIAL_DEMO_ORDERS: Order[] = [
         quantity: 1,
         unitPrice: 2499,
         total: 2499,
-        image: '/src/assets/images/category_preworkout_energy_1794474632363.jpg'
+        image: '/assets/images/category_preworkout_energy_1794474632363.jpg'
       }
     ],
     subtotal: 20999,

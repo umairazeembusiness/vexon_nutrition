@@ -1,10 +1,10 @@
 import { Product, CustomerReview } from '../types';
 
-export const HERO_IMAGE = '/src/assets/images/hero_athlete_powerlift_1794474630931.jpg';
-export const WHEY_TUB_IMAGE = '/src/assets/images/product_whey_tub_1794474631251.jpg';
-export const PREWORKOUT_IMAGE = '/src/assets/images/category_preworkout_energy_1794474632363.jpg';
-export const PROMO_WORKOUT_IMAGE = '/src/assets/images/promo_lifestyle_workout_1794474632034.jpg';
-export const VEXON_LOGO = '/assets/vexon-logo.png';
+export const HERO_IMAGE = '/assets/images/hero_athlete_powerlift_1794474630931.jpg';
+export const WHEY_TUB_IMAGE = '/assets/images/product_whey_tub_1794474631251.jpg';
+export const PREWORKOUT_IMAGE = '/assets/images/category_preworkout_energy_1794474632363.jpg';
+export const PROMO_WORKOUT_IMAGE = '/assets/images/promo_lifestyle_workout_1794474632034.jpg';
+export const VEXON_LOGO = '/assets/images/logo.png';
 
 export const PRODUCTS: Product[] = [
   {
