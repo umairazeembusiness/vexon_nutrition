@@ -1,0 +1,6 @@
+{
+  "name": "VEXON Supplements",
+  "description": "Premium fitness and sports nutrition eCommerce store for VEXON — Fuel Your Potential. Based in Liberty Market, Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
